@@ -1,2 +1,7 @@
 # AnalogClock
-Created with CodeSandbox
+
+
+Created with React js .
+libraries used : 
+  @material-ui/core
+  analog-clock-react
